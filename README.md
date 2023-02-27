@@ -23,8 +23,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Desktop Version] <a name="about-project"></a>
-**Deployment**
-https://nelofarzabi.github.io/Portfolio-Desktop_Version/
 
 **[Portfolio]** is my fourth project.
 
