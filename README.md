@@ -71,10 +71,9 @@ npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## Deployment
 
-You can deploy this project using:
-https://nelofarzabi.github.io/Portfolio-Desktop_Version/
+### [SEE LIVE:](https://nelofarzabi.github.io/Portfolio-Desktop_Version/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
