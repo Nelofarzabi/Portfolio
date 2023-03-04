@@ -73,7 +73,7 @@ npm install
 
 ## Deployment
 
-### [SEE LIVE:](https://nelofarzabi.github.io/Portfolio-Desktop_Version/)
+### [SEE LIVE:](https://nelofarzabi.github.io/Portfolio/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
