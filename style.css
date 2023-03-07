@@ -798,7 +798,7 @@ h2 {
     display: grid;
     gap: 25px;
     grid-template-columns: 40% 1fr;
-    padding: 142px 142px ;
+    padding: 142px 142px;
     background-color: white;
     border-radius: 0 8rem 0 0;
   }
@@ -878,5 +878,4 @@ h2 {
     width: 120px;
     background-color: #f7f7f9;
   }
-
 }
