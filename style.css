@@ -495,6 +495,10 @@ h2 {
 .close {
   position: absolute;
   right: 38px;
+  margin-right: 11%;
+  color: #aaa;
+  font-size: 28px;
+  font-weight: bold;
 
   /* display: none; */
 }
@@ -544,7 +548,7 @@ h2 {
   display: none;
 }
 
-/*Modal styling*/
+
 .popup {
   display: flex;
   flex-direction: column;
@@ -562,13 +566,6 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-}
-
-.close {
-  margin-right: 11%;
-  color: #aaa;
-  font-size: 28px;
-  font-weight: bold;
 }
 
 .close:hover,
