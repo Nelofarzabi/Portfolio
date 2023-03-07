@@ -156,17 +156,21 @@ const popUpDetails = projects.map(
   </section>`
 );
 /*Pop Up Menu*/
-
-
-
-
-
-
-
-
-
-
-
+const popup = document.getElementById('popup');
+const seeButton = document.querySelectorAll('.see-btn');
+document.getElementById('0').onclick = f1;
+document.getElementById('1').onclick = f1;
+document.getElementById('2').onclick = f1;
+document.getElementById('3').onclick = f1;
+function f1() {
+  const x = parseInt(this.id);
+  popup.innerHTML = popUpDetails[x];
+  popup.style.display = 'block';
+  document.getElementById('cl').onclick = function () {
+    popup.innerHTML = '';
+    popup.style.display = 'none';
+  };
+}
 /*Pop Up Menu end */
 //seeButton.forEach((element) => {
 // element.addEventListener('click', (event) => {
