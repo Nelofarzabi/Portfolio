@@ -30,7 +30,7 @@ body {
   background-color: #fff;
 }
 
-/* Header Section Start */
+/* Header Section */
 
 header {
   display: flex;
@@ -218,6 +218,21 @@ h2 {
   transition: 0.2s;
 }
 
+.newBtn {
+  background-color: #fff;
+  width: 150px;
+  text-align: center;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid #2230d2;
+  color: #396df2;
+  padding: 4px 12px 4px 12px;
+  transition: 0.2s;
+  margin-top: 10px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
 .btn-md {
   background-color: #ebebff;
   width: 45px;
@@ -232,7 +247,7 @@ h2 {
 
 .btn-lg {
   background-color: #ebebff;
-  width: 70px;
+  width: 90px;
   text-align: center;
   height: 25px;
   border-radius: 5px;
@@ -246,7 +261,7 @@ h2 {
   padding-bottom: 13px;
 }
 
-.btn-xxl {
+.see-btn {
   width: 124px;
   text-align: center;
   height: 48px;
@@ -262,7 +277,7 @@ h2 {
 .btn-sm:hover,
 .btn-md:hover,
 .btn-lg:hover,
-.btn-xxl:hover {
+.see-btn:hover {
   cursor: pointer;
   background-color: #6070ff;
   box-shadow: 0 0 16px rgba(64, 83, 252, 0.24);
@@ -290,7 +305,7 @@ h2 {
 .btn-sm:active,
 .btn-md:active,
 .btn-lg:active,
-.btn-xxl:active {
+.see-btn:active {
   cursor: pointer;
   background-color: #fff;
   border: 1px solid #7f8cff;
@@ -529,6 +544,23 @@ h2 {
   display: none;
 }
 
+/*Modal styling*/
+/*Pop Up style */
+
+/*End pop up */
+
+@media screen and (max-width: 600px) {
+  .popup-project-details {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+
+  .column-left {
+    width: 100%;
+  }
+}
+
 @media screen and (min-width: 768px) {
   body {
     background-color: #fff;
@@ -688,7 +720,7 @@ h2 {
     display: grid;
     gap: 25px;
     grid-template-columns: 40% 1fr;
-    padding: 142px 142px;
+    padding: 142px 142px ;
     background-color: white;
     border-radius: 0 8rem 0 0;
   }
