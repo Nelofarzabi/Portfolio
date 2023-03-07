@@ -27,7 +27,7 @@ html {
 
 body {
   font-family: var(--font-family);
-  background-color: #f7f7f9; 
+  background-color: #f7f7f9;
 }
 
 /* Header Section */
@@ -329,8 +329,6 @@ h2 {
   align-items: center;
   justify-content: space-between;
   padding: 36px 102px 0 36px;
-
-
 }
 
 .tech-title > h3 {
@@ -495,8 +493,8 @@ h2 {
   font-size: 1.17em;
   margin-block-start: 1em;
   margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
   font-weight: bold;
 }
 
@@ -644,7 +642,7 @@ h2 {
   gap: 20px;
 }
 
-.tech-images{
+.tech-images {
   align-items: center;
 }
 
@@ -658,7 +656,6 @@ h2 {
   .column-left {
     width: 100%;
   }
-  
 }
 
 @media screen and (min-width: 768px) {
@@ -812,8 +809,9 @@ h2 {
   .about {
     /* display: flex;
     flex-direction: column; */
+
     /* gap: 20px; */
-    padding: 0px 24px 0 24px;
+    padding: 0 24px 0 24px;
   }
 
   .about-myself-desc {
@@ -899,7 +897,7 @@ h2 {
     border-radius: 8px;
     padding: 9px 12px;
     margin: 12px 12px;
-    column-gap: 16px; 
+    column-gap: 16px;
   }
 
   .tech-images {
@@ -910,9 +908,7 @@ h2 {
     flex-direction: column;
   }
 
-  .tech-name{
+  .tech-name {
     display: flex;
   }
-
-  
 }
