@@ -545,7 +545,6 @@ h2 {
 }
 
 /*Modal styling*/
-/*Pop Up style */
 .popup {
   display: flex;
   flex-direction: column;
@@ -558,27 +557,23 @@ h2 {
   margin-left: 18%;
   width: 70%;
 }
-
 .popup-header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
-
 .close {
   margin-right: 11%;
   color: #aaa;
   font-size: 28px;
   font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
 }
-
 .popup-window {
   display: none;
   position: fixed;
@@ -591,18 +586,15 @@ h2 {
   overflow: scroll;
   background-color: rgba(0, 0, 0, 0.4);
 }
-
 .popup-project-image {
   width: 100%;
   height: auto;
   padding: 10px;
 }
-
 .popup-project-details {
   display: flex;
   margin-bottom: 30px;
 }
-
 .column-left {
   width: 70%;
   font-family: 'PoppinsLight', Tahoma, Geneva, Verdana, sans-serif;
@@ -632,7 +624,7 @@ h2 {
   gap: 20px;
 }
 
-/*End pop up */
+/*End pop up*/
 
 @media screen and (max-width: 600px) {
   .popup-project-details {
@@ -813,7 +805,6 @@ h2 {
   .about-social-icons {
     list-style: none;
   }
-
   .social-media-icons {
     padding-right: 5px;
   }
@@ -879,7 +870,6 @@ h2 {
     margin: 12px 12px;
     column-gap: 16px;
   }
-
   .tech-images {
     height: 120px;
     width: 120px;
