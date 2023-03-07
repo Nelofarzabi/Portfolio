@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Desktop Version] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
-**[Portfolio]** is my fourth project.
+**[Portfolio]** is my four project at Microverse , this project desgin it for Desktop and mobile version with popup window and mobile menu.
 
 # Screen Shot of Complete Project
 
