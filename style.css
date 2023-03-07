@@ -27,7 +27,7 @@ html {
 
 body {
   font-family: var(--font-family);
-  background-color: #fff;
+  background-color: #f7f7f9; 
 }
 
 /* Header Section */
@@ -37,6 +37,7 @@ header {
   align-items: center;
   justify-content: space-between;
   color: var(--logo-color);
+  background-color: white;
 }
 
 /* text logo */
@@ -174,6 +175,9 @@ h2 {
 
 .about-myself-title {
   color: #091e42;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
 }
 
 .canopy {
@@ -318,12 +322,15 @@ h2 {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  padding: 114px 24px 0 24px;
 }
 
 .tech-title {
   align-items: center;
   justify-content: space-between;
-  padding: 8px;
+  padding: 36px 102px 0 36px;
+
+
 }
 
 .tech-title > h3 {
@@ -471,6 +478,8 @@ h2 {
 
 .about-section {
   padding: 15px 15px 15px 15px;
+  border-radius: 0 8rem 0 0;
+  background-color: white;
 }
 
 .hero-subheading {
@@ -482,10 +491,18 @@ h2 {
 
 .about-subheading {
   color: #7f8cff;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
 }
 
 .social-media-icons {
   padding-right: 10px;
+  margin-right: -10px;
 }
 
 .nav-item {
@@ -627,6 +644,10 @@ h2 {
   gap: 20px;
 }
 
+.tech-images{
+  align-items: center;
+}
+
 @media screen and (max-width: 600px) {
   .popup-project-details {
     display: flex;
@@ -637,11 +658,12 @@ h2 {
   .column-left {
     width: 100%;
   }
+  
 }
 
 @media screen and (min-width: 768px) {
   body {
-    background-color: #fff;
+    background-color: #f7f7f9;
   }
 
   #desktop-menu {
@@ -787,6 +809,13 @@ h2 {
     width: 44%;
   }
 
+  .about {
+    /* display: flex;
+    flex-direction: column; */
+    /* gap: 20px; */
+    padding: 0px 24px 0 24px;
+  }
+
   .about-myself-desc {
     font-size: 1rem;
     line-height: 28px;
@@ -870,12 +899,20 @@ h2 {
     border-radius: 8px;
     padding: 9px 12px;
     margin: 12px 12px;
-    column-gap: 16px;
+    column-gap: 16px; 
   }
 
   .tech-images {
     height: 120px;
     width: 120px;
     background-color: #f7f7f9;
+    display: flex;
+    flex-direction: column;
   }
+
+  .tech-name{
+    display: flex;
+  }
+
+  
 }
