@@ -13,8 +13,10 @@ const projects = [
       year: 2015,
     },
     screenshot: 'images/works/image_1.png',
-    shortDescription: `A daily selection of privately personalized reads; no accounts or sign-ups required.`,
-    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. `,
+    shortDescription:
+      'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. ",
     skills: ['html', 'css', 'javascript'],
     liveLink: 'https://www.canopy.cr/tonic',
     sourceLink: 'https://www.canopy.cr/tonic',
@@ -28,8 +30,10 @@ const projects = [
       year: 2015,
     },
     screenshot: 'images/works/image_2.png',
-    shortDescription: `A daily selection of privately personalized reads; no accounts or sign-ups required.`,
-    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release`,
+    shortDescription:
+      'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release",
     skills: ['html', 'css', 'Ruby on rails', 'javascript'],
     liveLink: 'https://www.facebook.com/',
     sourceLink: 'https://www.facebook.com/',
@@ -43,8 +47,10 @@ const projects = [
       year: 2015,
     },
     screenshot: 'images/works/image_3.png',
-    shortDescription: `A daily selection of privately personalized reads; no accounts or sign-ups required.`,
-    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release`,
+    shortDescription:
+      'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release",
     skills: ['html', 'css', 'Ruby on rails', 'javascript'],
     liveLink: 'https://www.facebook.com/',
     sourceLink: 'https://www.facebook.com/',
@@ -58,8 +64,10 @@ const projects = [
       year: 2018,
     },
     screenshot: 'images/works/image_4.png',
-    shortDescription: `A daily selection of privately personalized reads; no accounts or sign-ups required.`,
-    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release`,
+    shortDescription:
+      'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release",
     skills: ['html', 'css', 'javascript', 'Ruby on rails'],
     liveLink: 'https://www.uber.com/',
     sourceLink: 'https://www.uber.com/',
@@ -68,8 +76,7 @@ const projects = [
 const myContent = document.querySelector('.card-container');
 const showInHtml = projects
   .map(
-    (project, index) =>
-      `<div class="card-layout">
+    (project, index) => `<div class="card-layout">
       <div class="image-container">
          <img
           class="image-fluid"
@@ -102,15 +109,13 @@ const showInHtml = projects
           <button type="button" id="${index}" class="see-btn">See Project</button>
         </div>
       </div>
-    </div>`
+     </div>`,
   )
   .join('');
 myContent.innerHTML = showInHtml;
-/*View Pop Up*/
-const myPopUp = document.querySelector('.popup');
+/* View Pop Up */
 const popUpDetails = projects.map(
-  (project) =>
-    `<section class="popup">
+  (project) => `<section class="popup">
     <div class="popup-header">
       <h2 class="popup-project-title" id="popup-project-title">${project.title}</h2>
       <span id="cl" class="close">&times;</span>
@@ -153,34 +158,103 @@ const popUpDetails = projects.map(
         </div>
       </div>
     </div>
-  </section>`
+   </section>`,
 );
-/*Pop Up Menu*/
+/* Pop Up Menu */
 const popup = document.getElementById('popup');
-const seeButton = document.querySelectorAll('.see-btn');
-document.getElementById('0').onclick = f1;
-document.getElementById('1').onclick = f1;
-document.getElementById('2').onclick = f1;
-document.getElementById('3').onclick = f1;
+
 function f1() {
-  const x = parseInt(this.id);
+  const x = Number(this.id);
   popup.innerHTML = popUpDetails[x];
   popup.style.display = 'block';
-  document.getElementById('cl').onclick = function () {
+  document.getElementById('cl').onclick = function cl() {
     popup.innerHTML = '';
     popup.style.display = 'none';
   };
 }
-/*Pop Up Menu end */
+
+document.getElementById('0').onclick = f1;
+document.getElementById('1').onclick = f1;
+document.getElementById('2').onclick = f1;
+document.getElementById('3').onclick = f1;
 
 const span = document.getElementsByClassName('close')[0];
 // When the user clicks on <span> (x), close the modal
 span.onclick = () => {
   popup.style.display = 'none';
 };
-// When the user clicks anywhere outside of the modal, close it
+
 window.onclick = (event) => {
   if (event.target === popup) {
     popup.style.display = 'none';
   }
 };
+
+// Form Validation
+
+const form = document.getElementById('form');
+const emailError = document.querySelector('span.error');
+
+const isEmailValid = (email) => {
+  const regex = /^[a-z]+@[a-z0-9-]+\.[a-z0-9-.]+$/;
+  return regex.test(email.value);
+};
+
+const checkEmail = (email) => {
+  let valid = true;
+  if (!isEmailValid(email)) {
+    valid = false;
+  }
+  return valid;
+};
+
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
+
+  const { email } = form.elements;
+
+  if (!checkEmail(email)) {
+    email.setCustomValidity(
+      'Please enter a valid email address and in lowercase letters.',
+    );
+    emailError.textContent = 'Please enter a valid email address and in lowercase letters.';
+  } else {
+    email.setCustomValidity('');
+    emailError.textContent = '';
+    emailError.className = 'error';
+    form.submit();
+  }
+});
+
+const fullname = document.getElementById('fullname');
+const email = document.getElementById('email');
+const message = document.getElementById('message');
+
+const store = () => {
+  const inputs = {
+    fullname: fullname.value,
+    email: email.value,
+    message: message.value,
+  };
+  localStorage.setItem('formInput', JSON.stringify(inputs));
+};
+
+fullname.addEventListener('change', () => {
+  store();
+});
+
+email.addEventListener('change', () => {
+  store();
+});
+
+message.addEventListener('change', () => {
+  store();
+});
+
+const populateForm = () => {
+  const storage = localStorage.getItem('formInput');
+  fullname.value = JSON.parse(storage).fullname;
+  email.value = JSON.parse(storage).email;
+  message.value = JSON.parse(storage).message;
+};
+populateForm();
