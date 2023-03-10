@@ -189,4 +189,39 @@ window.onclick = (event) => {
     popup.style.display = 'none';
   }
 };
+//  form validation
+const email = document.getElementById('email');
+const error = document.getElementById('error-message');
+const form = document.getElementById('form');
+error.style.visibility = 'hidden';
+function formValidate(event) {
+  if (email.value !== email.value.toLowerCase()) {
+    error.style.visibility = 'visible';
+    error.innerHTML = 'Please enter your email address in lowercase.';
+    event.preventDefault();
+  } else { error.style.visibility = 'hidden'; }
+}
+form.addEventListener('submit', formValidate);
+const message = document.getElementById('message');
+const userName = document.getElementById('contact-name');
 
+function storeData() {
+  const user = {
+    UserName: userName.value,
+    UserEmail: email.value,
+    UserText: message.value,
+  };
+  localStorage.setItem('user', JSON.stringify(user));
+}
+
+userName.addEventListener('focusout', storeData);
+email.addEventListener('focusout', storeData);
+message.addEventListener('focusout', storeData);
+
+const data = JSON.parse(localStorage.getItem('user'));
+
+if (data) {
+  userName.value = data.UserName;
+  email.value = data.UserEmail;
+  message.value = data.UserText;
+}
