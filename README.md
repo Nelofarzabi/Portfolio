@@ -88,9 +88,10 @@ npm install
 
 <!--FUTURE FUTURES -->
 ## Future Features <a name ="future-features"></a>
--[ ] **[Portfolio]**
--[ ] **[Mobile Version]**
--[ ] **[Desktop Version]**
+- Responsive UI
+- Contact me form
+- Local storage
+- Assabality
 
 <!-- CONTRIBUTING -->
 
