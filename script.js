@@ -202,8 +202,8 @@ function formValidate(event) {
   } else { error.style.visibility = 'hidden'; }
 }
 form.addEventListener('submit', formValidate);
-const message = document.getElementById('message');
-const userName = document.getElementById('contact-name');
+const message = document.getElementByclass('message');
+const userName = document.getElementByclass('contact-name');
 
 function storeData() {
   const user = {
@@ -218,7 +218,7 @@ userName.addEventListener('focusout', storeData);
 email.addEventListener('focusout', storeData);
 message.addEventListener('focusout', storeData);
 
-const data = JSON.parse(localStorage.getItem('user'));
+const data = localStorage.getItem('user');
 
 if (data) {
   userName.value = data.UserName;
