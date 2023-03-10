@@ -189,7 +189,7 @@ window.onclick = (event) => {
     popup.style.display = 'none';
   }
 };
-//  form validation
+//form validation for contact form 
 const email = document.getElementById('email');
 const error = document.getElementById('error-message');
 const form = document.getElementById('form');
